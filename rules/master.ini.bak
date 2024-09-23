@@ -1,7 +1,7 @@
 [custom]
 ;不要随意改变关键字，否则会导致出错
 ;基于ACL4SSR规则进行改写，在此表示感谢
-
+24/9/23 弃用，游戏异常 
 
 ;规则集
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list #本地/局域网地址
