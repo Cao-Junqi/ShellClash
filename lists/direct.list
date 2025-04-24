@@ -4,8 +4,5 @@ DOMAIN-SUFFIX,zuoyebang.com
 DOMAIN-SUFFIX,steampy.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,gushiwen.cn
-DOMAIN-KEYWORD,vzan.com
-DOMAIN-KEYWORD,weizan.cn
-#DOMAIN-SUFFIX,vzan.com
-DOMAIN-SUFFIX,*.vzan.com
-#DOMAIN-SUFFIX,tuser.vzan.com
+DOMAIN-SUFFIX,vzan.com
+DOMAIN-SUFFIX,weizan.cn
